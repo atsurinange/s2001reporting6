@@ -5,6 +5,7 @@
 # 入力: <input.sas7bdat> <column_name> <search_value> <output_base> 
 # 出力: <output_base>.csv（中間ファイル）
 # その後、SASで CSV -> sas7bdat へ変換
+#This comment is added by ruser2
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### Initialize Script Information ###
